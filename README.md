@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Figma**
 
-- 💬 Ask me about **Wordpress, Photoshop, Web Deve**
+- 💬 Ask me about **Wordpress, Photoshop, Web Dev**
 
 - 📫 How to reach me **Itsismailrobin@gmail.com**
 
