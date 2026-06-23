@@ -1,29 +1,145 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Revenger</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Web Development**
+# 👋 Hey, I'm Ismail Robin
 
-- 🌱 I’m currently learning **Figma**
+### 🎨 UX/UI Designer · 💻 Frontend Developer · 🎮 Gamer
 
-- 💬 Ask me about **Wordpress, Photoshop, Web Dev**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Designing+Digital+Experiences;Crafting+Pixel-Perfect+UI;Building+Modern+Web+Apps;Always+Learning+Something+New" alt="Typing SVG" />
 
-- 📫 How to reach me **Itsismailrobin@gmail.com**
+<br/>
 
-- ⚡ Fun fact **I am a Gamer**
+<a href="https://github.com/ItsIsmailRobin/new" target="_blank">
+  <img src="https://img.shields.io/badge/➕_Create_New_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Create New Repo" />
+</a>
+&nbsp;
+<a href="https://rev71.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Live_Portfolio-a78bfa?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio" />
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/itsrevenger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsrevenger" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/itsismailrobin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsismailrobin" height="30" width="40" /></a>
-<a href="https://fb.com/itsismailrobin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itsismailrobin" height="30" width="40" /></a>
-<a href="https://instagram.com/ig_ismailrobin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_ismailrobin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/revenger gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="revenger gaming" height="30" width="40" /></a>
-<a href="https://discord.gg/EttmFjhhq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EttmFjhhq" height="30" width="40" /></a>
+</div>
+
+---
+
+## 🖼️ Hero Banner
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,a78bfa,ec4899,f59e0b&height=220&section=header&text=Ismail%20Robin&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%" alt="Header Banner"/>
+
+<br/>
+
+<div align="center">
+
+### 🚀 *"Designing ideas into impactful digital experiences."*
+
+I'm a passionate **Frontend Developer & UX/UI Designer** from Bangladesh 🇧🇩 who loves building beautiful, performant, and meaningful products.
+
+</div>
+
+---
+
+## ⚡ About Me
+
+```yaml
+name:        Ismail Robin
+aka:         Revenger
+role:        Frontend Developer & UI/UX Designer
+location:    Dhaka, Bangladesh 🇧🇩
+focus:       Web Development, UI/UX, OS Optimization
+status:      🟢 Open to Freelance & Collaboration
+fun_fact:    Pro Gamer 🎮
+```
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,figma,ps,ai,wordpress,git,github,vscode,linux,bash,aws,azure,python,cpp&theme=dark" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-100%25-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-95%25-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-82%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/UI%2FUX-88%25-FF61F6?style=flat-square&logo=figma&logoColor=white" />
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/itsismailrobin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itsismailrobin" /></a><a href="https://ko-fi.com/itsismailrobin"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="itsismailrobin" /></a></p><br><br>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ItsIsmailRobin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=ec4899&text_color=e4e4e7&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=ItsIsmailRobin&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsIsmailRobin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e4e4e7" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ItsIsmailRobin&theme=tokyonight&no-frame=true&row=1&column=7&margin-h=4&title=Commit,Stars,Followers,PullRequest,Issues,Repository,MultiRepo" alt="Trophies" />
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsIsmailRobin/ItsIsmailRobin/main/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItsIsmailRobin/ItsIsmailRobin/main/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ItsIsmailRobin/ItsIsmailRobin/main/github-snake-dark.svg" />
+</picture>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsIsmailRobin&custom_title=📈%20Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=ec4899&point=f59e0b&area=true&area_color=a78bfa" alt="Activity Graph" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/ItsIsmailRobin" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://twitter.com/itsrevenger" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/itsismailrobin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/ig_ismailrobin" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://fb.com/itsismailrobin" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@RevengerGamingYT" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="mailto:Itsismailrobin@gmail.com"><img src="https://img.shields.io/badge/Email-Itsismailrobin@gmail.com-a78bfa?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.gg/EttmFjhhq" target="_blank"><img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+---
+
+## ✨ Featured Project
+
+<p align="center">
+  <a href="https://github.com/ItsIsmailRobin/Revenger">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ItsIsmailRobin&repo=Revenger&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=ec4899&text_color=e4e4e7" alt="Revenger Repo" />
+  </a>
+</p>
+
+---
+
+## 💖 Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/itsismailrobin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee" /></a>
+  &nbsp;&nbsp;
+  <a href="https://ko-fi.com/itsismailrobin" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" height="50" alt="Ko-fi" /></a>
+</p>
+
+---
+
+<div align="center">
+
+### 💡 *"Code is poetry, design is art, gaming is life."* 🎮
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,a78bfa,ec4899,f59e0b&height=120&section=footer&animation=twinkling" width="100%" alt="Footer Banner"/>
+
+**⭐ Star my repos if you like what you see — it motivates me to build more!**
+
+</div>
