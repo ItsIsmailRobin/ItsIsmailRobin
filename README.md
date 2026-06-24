@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- Action Buttons Row -->
-<a href="https://github.com/ItsIsmailRobin/new" target="_blank">
+<a href="https://github.com/new" target="_blank">
   <img src="https://img.shields.io/badge/➕_CREATE_NEW_REPO-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" height="40" alt="Create New Repo"/>
 </a>
 &nbsp;&nbsp;
